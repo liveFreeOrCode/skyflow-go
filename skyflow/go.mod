@@ -1,4 +1,4 @@
-module github.com/skyflowapi/skyflow-go/skyflow
+module github.com/liveFreeOrCode/skyflow-go/skyflow
 
 go 1.13
 
